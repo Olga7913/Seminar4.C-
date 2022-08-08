@@ -1,0 +1,15 @@
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\bin\Debug\net6.0\Task25.exe
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\bin\Debug\net6.0\Task25.deps.json
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\bin\Debug\net6.0\Task25.runtimeconfig.json
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\bin\Debug\net6.0\Task25.dll
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\bin\Debug\net6.0\Task25.pdb
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\obj\Debug\net6.0\Task25.csproj.AssemblyReference.cache
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\obj\Debug\net6.0\Task25.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\obj\Debug\net6.0\Task25.AssemblyInfoInputs.cache
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\obj\Debug\net6.0\Task25.AssemblyInfo.cs
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\obj\Debug\net6.0\Task25.csproj.CoreCompileInputs.cache
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\obj\Debug\net6.0\Task25.dll
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\obj\Debug\net6.0\refint\Task25.dll
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\obj\Debug\net6.0\Task25.pdb
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\obj\Debug\net6.0\Task25.genruntimeconfig.cache
+D:\Обучение\Git\HW_08.08.2022\HW\Task25\obj\Debug\net6.0\ref\Task25.dll
